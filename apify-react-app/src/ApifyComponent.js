@@ -13,7 +13,7 @@ const ApifyComponent = () => {
         setError('');
         
         const client = new ApifyClient({
-            token: 'apify_api_YaPMcnbQB4HTnzRUpWo3PImwqX1MEh4xmQ3E',
+            token: 'apify_api_',
         });
 
         const input = {
